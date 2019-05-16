@@ -20,7 +20,7 @@ public class SnakeTest {
 
 	@Test
 	public void testHealthy() {
-		//fail("Not yet implemented");
+		
 		
 		//check is healthy funtion is working 
 		boolean healthy = takis.isHealthy();

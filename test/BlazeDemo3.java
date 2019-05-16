@@ -11,7 +11,7 @@ public class BlazeDemo3 {
 	final String URL = "http://www.BlazeDemo.com";
 	final String DRIVER_PATH = "C:\\chromedriver.exe";
 	WebDriver driver;
-	
+
 	@Before
 	public void setUp() throws Exception {
 		// Setup Selenium + Chrome
